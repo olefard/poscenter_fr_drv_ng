@@ -1,3 +1,18 @@
+Revision: 27d90fd977e1c7d562f0665c5f1edb9d96576677
+Author: olefard <olefard@gmail.com>
+Date: 16.01.2025 10:02:36
+
+cppbase
+ - возвращена поддержка ШТРИХ-СМАРТПОС-Ф
+ - добавлена команда FF77h "Сформировать чек коррекции V3"
+ - добавлена информация о тегах 1115, 1119 и 1120
+
+classic
+ - добавлен метод FNBuildCorrectionReceipt3 "Сформировать чек коррекции V3"
+
+one_s
+ - добавлена передача новых налогов в чек коррекции ФФД 1.05
+
 Revision: d88245de806a4f7901e96e305629652a4878cff2
 Author: olefard <olefard@gmail.com>
 Date: 25.12.2024 16:05:06
