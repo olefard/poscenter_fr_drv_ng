@@ -1,3 +1,10 @@
+Revision: d5b0b1b490adacf95da5933faf0845de5e00b856
+Author: olefard <olefard@gmail.com>
+Date: 16.01.2025 14:40:49
+
+one_s
+ - исправлена работа с ШТРИХ-ЗНАК-М3
+
 Revision: 27d90fd977e1c7d562f0665c5f1edb9d96576677
 Author: olefard <olefard@gmail.com>
 Date: 16.01.2025 10:02:36
