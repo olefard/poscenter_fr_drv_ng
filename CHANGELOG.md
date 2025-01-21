@@ -1,3 +1,15 @@
+Revision: 7998990a3d59b0c4598f5336fe06bd86d2ea1d0c
+Author: olefard <olefard@gmail.com>
+Date: 21.01.2025 14:48:04
+
+classic
+ - добавлены методы и свойства для разбора функциональных лицензий
+
+one_s
+ - исправлена передача наименования поставщика
+ - добавлена настройка Т1П14
+ - добавлена сборка one_s_fr_drv_ng_41
+
 Revision: d5b0b1b490adacf95da5933faf0845de5e00b856
 Author: olefard <olefard@gmail.com>
 Date: 16.01.2025 14:40:49
