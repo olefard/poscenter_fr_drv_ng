@@ -1,3 +1,10 @@
+Revision: a420d1579a23cf47108a96926715f8e4e0f9a05a
+Author: olefard <olefard@gmail.com>
+Date: 05.02.2025 15:48:15
+
+one_s
+ - исправлена "СУММА БЕЗ НДС" в чеках коррекции ФФД 1.05
+
 Revision: f79191c1ae2b2c4e2452621454ec96968bcbfbd8
 Author: olefard <olefard@gmail.com>
 Date: 03.02.2025 18:19:22
