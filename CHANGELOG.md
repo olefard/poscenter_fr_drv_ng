@@ -1,3 +1,9 @@
+Revision: e636b600fdc1efa007e8aa04cdc5b81ef26985d6
+Author: olefard <olefard@gmail.com>
+Date: 13.02.2025 21:48:26
+
+- исправлено подключение ККТ по bluetooth
+
 Revision: a420d1579a23cf47108a96926715f8e4e0f9a05a
 Author: olefard <olefard@gmail.com>
 Date: 05.02.2025 15:48:15
