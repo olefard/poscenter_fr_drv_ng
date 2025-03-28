@@ -1,3 +1,14 @@
+Revision: eba6b3ae673144ac6f7f9c1e20c41bd69f0f0f4f
+Author: olefard <olefard@gmail.com>
+Date: 28.03.2025 19:08:05
+
+classic
+ - добавлено свойство ComPath
+ ! в запросе состояния ИНН на нефискализированной ККТ возвращает пустую строку, раньше возвращал "не введен"
+
+console_test
+ - добавлена вкладка ФискалМастер в html_test
+
 Revision: 2627216088c2172d79bb7678e140e8b1c923e11b
 Author: olefard <olefard@gmail.com>
 Date: 11.03.2025 13:19:55
