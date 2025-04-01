@@ -1,3 +1,13 @@
+Revision: c15b97ad9665a50e22d4581f0a4890ae4783bdfb
+Author: olefard <olefard@gmail.com>
+Date: 01.04.2025 20:19:47
+
+cppbase_fr_drv_ng
+ - исправлен приема ответа с неправильной контрольной суммой
+
+one_s
+ - исправлена ошибка -1 при печати чека, если чек закрылся успешно
+
 Revision: eba6b3ae673144ac6f7f9c1e20c41bd69f0f0f4f
 Author: olefard <olefard@gmail.com>
 Date: 28.03.2025 19:08:05
