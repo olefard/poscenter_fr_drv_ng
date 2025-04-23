@@ -1,3 +1,14 @@
+Revision: a10b0afb46206a54a218c80d0b1688b6d43ee049
+Author: olefard <olefard@gmail.com>
+Date: 23.04.2025 13:13:32
+
+one_s
+ - исправлено получение ширины печати(теперь учитывается шрифт по умолчанию в Т8П23)
+ - добавлена настройка "Номер шрифта тела чека"
+
+iOS
+ - изменен DEPLOYMENT_TARGET на 12.0
+
 Revision: c15b97ad9665a50e22d4581f0a4890ae4783bdfb
 Author: olefard <olefard@gmail.com>
 Date: 01.04.2025 20:19:47
