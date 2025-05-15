@@ -1,3 +1,10 @@
+Revision: fcbc8f1e9f9ccc4ad69a3b84202a93fea18e3389
+Author: olefard <olefard@gmail.com>
+Date: 15.05.2025 11:09:43
+
+one_s
+ - добавлена печать скидки и настройка "Печатать ненулевые скидки"
+
 Revision: a10b0afb46206a54a218c80d0b1688b6d43ee049
 Author: olefard <olefard@gmail.com>
 Date: 23.04.2025 13:13:32
