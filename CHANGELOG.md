@@ -2,7 +2,26 @@
 
 ## История версий
 
+### 1.6.6-5
+
+Revision: 04056f86c6daa598e587d1d3efc29099056a3b29
+Author: olefard <olefard@gmail.com>
+Date: 24.07.2025 16:38:41
+
+one_s
+ - добавлена поддержка требований 4.6
+
+console_test
+ - обновлен встроенный html_test до версии 1.2.29
+
+classic
+ - исправлены ошибки в декларативном документе
+
+cppbase
+ - удалена поддержка ШТРИХ-ЗНАК-М3
+
 ### 1.6.6-2
+
 Revision: 6ca1d17bb6e3ec0562ef23bb016a1103b982c5b4
 Author: olefard <olefard@gmail.com>
 Date: 21.07.2025 13:19:14
@@ -21,6 +40,7 @@ one_s
  - изменены значения настроек по умолчанию
 
 ### 1.6.5-36
+
 Revision: fcbc8f1e9f9ccc4ad69a3b84202a93fea18e3389
 Author: olefard <olefard@gmail.com>
 Date: 15.05.2025 11:09:43
