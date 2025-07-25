@@ -2,6 +2,18 @@
 
 ## История версий
 
+### 1.6.6-7
+
+Revision: 858dacc72604d02cbff94de8fb81a5b41202fc71
+Author: olefard <olefard@gmail.com>
+Date: 25.07.2025 10:58:51
+
+console_test
+ - добавлены скрипты для запуска html-теста
+
+one_s
+ - исправлено получение часовой зоны
+
 ### 1.6.6-5
 
 Revision: 04056f86c6daa598e587d1d3efc29099056a3b29
