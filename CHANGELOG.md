@@ -2,6 +2,34 @@
 
 ## История версий
 
+### 1.6.6-43
+
+Revision: 1228b87fa58072f3fb2d687cae018611828b12c6
+Author: olefard <olefard@gmail.com>
+Date: 23.09.2025 13:17:38
+
+one_s
+ - исправлено падение драйвера под андроид
+ - исправлен запрос параметров шрифта у КЯ
+ - переделано задание пути лога под андроидом
+ - исправлена запись OperationOnline под ФФД 1.05
+ - переименована настройка "Печатать наименование при авансовом платеже" в "Печатать доп. информацию при авансовом платеже"
+ - исправлен разбор кодировки base64 c пробельными символами
+
+classic
+ - переделан метод FNCheckItemBarcode2
+ - добавлен методы ResetSerialNumber и WriteFeatureLicensesFromFile
+
+console_test
+ - добавлены команды write-feature-licenses-from-slf и reprogram-serial
+ - обновлен встроенный html-тест до 1.2.37
+
+cppbase
+ - добавлены методы writeFeatureLicensesFromBuf, writeFeatureLicensesFromFile и reProgramFactorySerial
+
+ci
+ - добавлена сборка под андроид с NDK r28c(28.2.13676358)
+
 ### 1.6.6-26
 
 Revision: 67ce6e2a2a0a747347a0fc4608e27161f131c917
