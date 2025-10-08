@@ -43,5 +43,5 @@
 
   ## Документация
   * **console_test_fr_drv_ng** - запустить тест в терминале с аргументом --help
-  * **classic_fr_drv_ng** - общая справка [здесь](https://exam.shtrih-m-partners.ru/assets/materials/DrayverKKT_517_10_12_22.zip), справка для реализованных методов доступна в заголовочном файле classic_interface.h в формате doxygen. Актуальный заголовочный в сборках рядом с нативными библиотеками.
+  * **classic_fr_drv_ng** - общая справка [здесь](https://disk.yandex.ru/d/YkNiR-o2Xi57Ig/04.%D0%9A%D0%9A%D0%A2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D0%9A%D0%A2/06.%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%D0%BC), справка для реализованных методов доступна в заголовочном файле classic_interface.h в формате doxygen. Актуальный заголовочный в сборках рядом с нативными библиотеками.
   * **WIKI** - [идёт наполнение](https://github.com/shtrih-m/fr_drv_ng/wiki), но лучше пользоваться **classic_interface.h** из сборки т.к. там всегда будет актуальная справка
