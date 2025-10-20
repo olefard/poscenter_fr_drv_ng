@@ -2,6 +2,21 @@
 
 ## История версий
 
+### 1.6.6-48
+
+Revision: 19d447d59371eda99afc8cbaa7b533c0c45842f6
+Author: olefard <olefard@gmail.com>
+Date: 20.10.2025 12:00:34
+
+cppbase
+ - добавлена поддержка POScenter 03ФМ
+
+one_s
+ - исправлена ошибка с неизвестным свойством BluetoothAddress
+
+console_test
+ - обновлен встроенный html-тест до 1.2.39
+
 ### 1.6.6-46
 
 Revision: c2186e985ce84d73181363be626e23bce10492c7
