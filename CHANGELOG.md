@@ -2,6 +2,15 @@
 
 ## История версий
 
+## 1.6.6-49
+
+Revision: 63b5ebbf37ecb368d89ca4e3f63284561c2ead66
+Author: olefard <olefard@gmail.com>
+Date: 20.10.2025 17:03:50
+
+one_s
+ - добавлена передача параметров SaleAddress и SaleLocation
+
 ### 1.6.6-48
 
 Revision: 19d447d59371eda99afc8cbaa7b533c0c45842f6
