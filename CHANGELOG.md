@@ -2,7 +2,16 @@
 
 ## История версий
 
-## 1.6.6-49
+### 1.6.6-51
+
+Revision: f92cf146225d4bf4d7d5ca9914c79432cb615408
+Author: olefard <olefard@gmail.com>
+Date: 01.11.2025 12:22:11
+
+classic
+ - исправлен метод FNBuildCorrectionReceipt3 (shtrih-m/fr_drv_ng#325)
+
+### 1.6.6-49
 
 Revision: 63b5ebbf37ecb368d89ca4e3f63284561c2ead66
 Author: olefard <olefard@gmail.com>
