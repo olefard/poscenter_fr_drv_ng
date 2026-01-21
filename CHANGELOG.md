@@ -2,7 +2,20 @@
 
 ## История версий
 
+### 1.7.0-34
+
+Revision: 57ef3dc2232d37a8f92d6d8032195689663e0a3a
+Author: olefard <olefard@gmail.com>
+Date: 20.01.2026 16:17:57
+
+classic
+ - исправлено заполнение свойства TLVDataHex в методе GetTagAsTLV
+
 ### 1.7.0-31
+
+Revision: 6305db19b32c123fda7e44e60ab1ab6f02bfd0a8
+Author: olefard <olefard@gmail.com>
+Date: 19.01.2026 19:17:33
 
 ci
  - добавлена сборка под mingw
