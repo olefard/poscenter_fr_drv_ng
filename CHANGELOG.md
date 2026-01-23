@@ -2,6 +2,15 @@
 
 ## История версий
 
+### 1.7.0-35
+
+Revision: 0996febf10a0a0b2221714474801d17a8b169bb2
+Author: olefard <olefard@gmail.com>
+Date: 23.01.2026 17:42:22
+
+classic
+ - исправлена работа FNCheckItemBarcode2 c КЯ
+
 ### 1.7.0-34
 
 Revision: 57ef3dc2232d37a8f92d6d8032195689663e0a3a
