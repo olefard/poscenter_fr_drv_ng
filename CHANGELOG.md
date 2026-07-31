@@ -2,6 +2,19 @@
 
 ## История версий
 
+### 1.10.0-10-gb09acd0
+
+Revision: b09acd002b9b1420c5068ca1a1099efb35260e2a
+Author: olefard <olefard@gmail.com>
+Date: 30.07.2026 18:06:51
+
+android
+ - убран разрешение ACCESS_BACKGROUND_LOCATION из android_util
+
+ios/macos
+ - добавлена установка атрибутов CFBundleVersion и CFBundleShortVersionString в Info.plist
+ - изменен CFBundleIdentifier на ru.poscenter.classicFrDrvNg в Info.plist
+
 ### 1.10.0-7-gc13bddb
 
 Revision: c13bddb8e797a79a6285aa3d8b903deae2b524e7
